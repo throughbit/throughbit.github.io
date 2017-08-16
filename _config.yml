@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Your awesome title
 email: your-email@example.com
-description: > API Documentation coming soon
+description: API Documentation coming soon
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
